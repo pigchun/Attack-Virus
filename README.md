@@ -94,21 +94,3 @@ The game was developed to bridge entertainment and science education. It has bee
 
 ---
 
-## 🏫 Developed At
-
-University of Illinois Chicago  
-Aug 2024 – Dec 2024  
-CS 440 – Intro to Game Development
-
----
-
-## 📜 License
-
-This project is open-source under the MIT License.
-
----
-
-## 🙌 Acknowledgments
-
-Special thanks to Professor [Name] and the UIC CS department for support and feedback throughout the development process.
-
