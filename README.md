@@ -58,7 +58,7 @@
 
 | Map Design | In-Game Play |
 |------------|--------------|
-| ![Map](./assets/map-design.png) | ![Gameplay](./assets/in-game-play.png) |
+| ![Map](./Assets/map-design.png) | ![Gameplay](./Assets/in-game-play.png) |
 
 *(Replace with actual paths once assets are uploaded)*
 
